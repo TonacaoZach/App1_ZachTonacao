@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TransferDataAudioApril172024" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.TransferDataAudioApril172024" parent="Base.Theme.TransferDataAudioApril172024" />
+
+    <style name="exampleToast">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">#0022FF</item>
+        <item name="stTextSize">17dp</item>
+        <item name="stColorBackground">#99000000</item>
+        <item name="stSolidBackground">true</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#fff</item>
+        <item name="stRadius">5dp</item>
+    </style>
+
+</resources>
